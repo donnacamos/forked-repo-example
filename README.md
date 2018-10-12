@@ -1,6 +1,6 @@
 # Welcome to the "Original" Project 🎉
 
-Welcome!
+Banjo is the best bear.
 
 First things first, what is a forked repository? A fork is simply a copy of a repository. Forking a repository allows you to make changes to a project without directly changing the original project.
 
