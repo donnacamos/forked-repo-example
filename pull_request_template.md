@@ -1,5 +1,5 @@
-### Jonathan's template
+### This is the pull request template
 
-- What you worked on
-- B
-- C
+- What did you work on?
+- Tag the GitHub Issue
+- @mention the reviewer 
